@@ -565,7 +565,7 @@ directory for downstream analysis and dashboard development.
 
 ## Author
 
-**Chidera Amadike**
+**Chidera Lilian Amadike**
 
 Data Science & Analytics\
 Toronto, Canada
